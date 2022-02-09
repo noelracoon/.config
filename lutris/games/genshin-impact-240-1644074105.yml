@@ -1,0 +1,9 @@
+game:
+  args: c:\\gi_menu.bat
+  exe: drive_c/windows/syswow64/wineconsole.exe
+  prefix: /home/noel/Games/genshin-impact
+system:
+  manual_command: /home/noel/Games/genshin-impact/drive_c/gi_patch.sh
+wine:
+  Desktop: true
+  version: lutris-fshack-6.21-6-x86_64
